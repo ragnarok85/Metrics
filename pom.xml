@@ -11,7 +11,7 @@
 
 		<log4j.version>1.2.16</log4j.version>
 		<junit.version>4.11</junit.version>
-		<jena.version>3.7.0</jena.version>
+		<jena.version>3.8.0</jena.version>
 		<jung.version>2.0.1</jung.version>
 		<mapdb.version>3.0.5</mapdb.version>
 		<luzzu.version>4.0.0</luzzu.version>
